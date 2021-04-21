@@ -1,0 +1,31 @@
+{
+  "name": "paddington",
+  "version": "1.0.4",
+  "description": "Paddington es tu mejor amigo :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRIC2002/Paddington.git"
+  },
+  "keywords": [
+    "Paddington",
+    "Discord",
+    "Bot",
+    "Music"
+  ],
+  "author": "JRIC2002",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JRIC2002/Paddington/issues"
+  },
+  "homepage": "https://github.com/JRIC2002/Paddington#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
